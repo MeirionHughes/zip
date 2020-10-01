@@ -1,6 +1,5 @@
 import path = require('path');
 import jetpack = require('fs-jetpack');
-import tempy = require('tempy');
 import yazl = require('yazl');
 import extractZip = require('extract-zip');
 import { ensureParentFolders } from './ensure-parent-folders';
